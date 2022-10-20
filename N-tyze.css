@@ -1,0 +1,78 @@
+header{
+    background-color: black;
+    border-radius: 12px;
+    display: flex;
+    justify-content: start;
+}
+header img{
+    width: 70px;
+}
+header ul{
+display: flex;
+}
+
+header ul li{
+list-style-type: none;
+margin: 10px;
+}
+header ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+/* header{
+    text-align: center;
+    background-color: black;
+}
+
+nav{
+    text-align: left;
+    font-variant: ;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px; 
+}
+
+nav a{
+    width: 18%;
+    display: inline-block;
+    /* background: white; */
+    color: red;
+    text-decoration: none;
+} */
+
+h1{
+    color: rgb(123, 55, 55);
+    text-align: center;
+    font-size: 40px;
+}
+
+h2{
+    color: blue;
+}
+
+body{
+    background: lightgray;
+    font-size: 130%;
+    margin: 4%;
+}
+
+strong{
+    color: purple;
+}
+
+.competence{
+    color: purple;
+}
+
+ul li a:hover{
+    color: red;
+    font-size: 25px;
+}
+
+body{
+    background-image: url(./gradient-bg-4.svg.med.png);
+    background-repeat: repeat-x;
+}
